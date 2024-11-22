@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Desktop\\Gsnet2\\EcosferaDigitalAPI\\EcosferaDigital\\EcosferaDigital.csproj": {}
+    "c:\\Users\\Gustavo\\Desktop\\Gsnet2\\EcosferaDigitalAPI\\EcosferaDigital\\EcosferaDigital.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Desktop\\Gsnet2\\EcosferaDigitalAPI\\EcosferaDigital\\EcosferaDigital.csproj": {
+    "c:\\Users\\Gustavo\\Desktop\\Gsnet2\\EcosferaDigitalAPI\\EcosferaDigital\\EcosferaDigital.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\Gsnet2\\EcosferaDigitalAPI\\EcosferaDigital\\EcosferaDigital.csproj",
+        "projectUniqueName": "c:\\Users\\Gustavo\\Desktop\\Gsnet2\\EcosferaDigitalAPI\\EcosferaDigital\\EcosferaDigital.csproj",
         "projectName": "EcosferaDigital",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\Gsnet2\\EcosferaDigitalAPI\\EcosferaDigital\\EcosferaDigital.csproj",
+        "projectPath": "c:\\Users\\Gustavo\\Desktop\\Gsnet2\\EcosferaDigitalAPI\\EcosferaDigital\\EcosferaDigital.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\Gsnet2\\EcosferaDigitalAPI\\EcosferaDigital\\obj\\",
+        "outputPath": "c:\\Users\\Gustavo\\Desktop\\Gsnet2\\EcosferaDigitalAPI\\EcosferaDigital\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",

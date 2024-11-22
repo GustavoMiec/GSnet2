@@ -480,3 +480,4 @@ C:\Users\Gustavo\Desktop\Gsnet2\EcosferaDigitalAPI\EcosferaDigital\obj\Debug\net
 C:\Users\Gustavo\Desktop\Gsnet2\EcosferaDigitalAPI\EcosferaDigital\obj\Debug\net8.0\EcosferaDigital.pdb
 C:\Users\Gustavo\Desktop\Gsnet2\EcosferaDigitalAPI\EcosferaDigital\obj\Debug\net8.0\EcosferaDigital.genruntimeconfig.cache
 C:\Users\Gustavo\Desktop\Gsnet2\EcosferaDigitalAPI\EcosferaDigital\obj\Debug\net8.0\ref\EcosferaDigital.dll
+c:\Users\Gustavo\Desktop\Gsnet2\EcosferaDigitalAPI\EcosferaDigital\obj\Debug\net8.0\EcosferaDigital.sourcelink.json

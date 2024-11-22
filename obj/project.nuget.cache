@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lDbmwasuDbs=",
+  "dgSpecHash": "dB3okLAosVk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\Gsnet2\\EcosferaDigitalAPI\\EcosferaDigital\\EcosferaDigital.csproj",
+  "projectFilePath": "c:\\Users\\Gustavo\\Desktop\\Gsnet2\\EcosferaDigitalAPI\\EcosferaDigital\\EcosferaDigital.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gustavo\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.mvc.testing\\8.0.10\\microsoft.aspnetcore.mvc.testing.8.0.10.nupkg.sha512",
